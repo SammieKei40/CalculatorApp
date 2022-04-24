@@ -1,0 +1,77 @@
+{
+    "name": "Calculator App",
+    "short_name": "CalculatorApp",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "hsl(222, 26%, 31%)",
+    "theme_color": "hsl(222, 16%, 31%)",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "./icons/icon-16x16.ico",
+            "type": "image/png",
+            "sizes": "16x16",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icons/icon-24x24.ico",
+            "type": "image/png",
+            "sizes": "24x24",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icons/icon-32x32.ico",
+            "type": "image/png",
+            "sizes": "32x32",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icons/icon-48x48.ico",
+            "type": "image/png",
+            "sizes": "48x48",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icons/icon-64x64.ico",
+            "type": "image/png",
+            "sizes": "64x64",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icons/icon-72x72.ico",
+            "type": "image/png",
+            "sizes": "72x72",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icons/icon-80x80.ico",
+            "type": "image/png",
+            "sizes": "80x80",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icons/icon-96x96.ico",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icons/icon-128x128.ico",
+            "type": "image/png",
+            "sizes": "128x128",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icons/icon-512x512.ico",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icons/icon-256x256.ico",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "any maskable"
+        }
+    ]
+}

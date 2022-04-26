@@ -11,6 +11,9 @@ new Vue({
          let equal = this.value;
          return this.value = eval(equal);
         },
+        del(){
+          this.value = this.value.toString().slice(0, -1)
+        },
         key(e){
             if (Number.isInteger(this.value))
               this.value = '';
